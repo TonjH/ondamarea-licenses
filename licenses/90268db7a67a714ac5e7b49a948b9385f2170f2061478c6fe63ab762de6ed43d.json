@@ -1,0 +1,13 @@
+{
+    "v": 1,
+    "deviceHash": "90268db7a67a714ac5e7b49a948b9385f2170f2061478c6fe63ab762de6ed43d",
+    "clientName": "PatatonjBeach",
+    "expiry": "2027-05-17",
+    "status": "ACTIVE",
+    "modules": [
+        "BAR",
+        "SPIAGGIA"
+    ],
+    "offlineToleranceDays": 14,
+    "issuedAt": "2026-05-17"
+}
